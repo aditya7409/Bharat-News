@@ -1,0 +1,11 @@
+body{
+    background: black;
+}
+.card{
+    margin-top: 3px;
+    margin-bottom: 4px
+}
+.footer{
+    text-align: center;
+    color: wheat;
+}
